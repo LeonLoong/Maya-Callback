@@ -1,0 +1,84 @@
+<DATA>
+	<PROJECTS>		
+		<PROJECT_001 CODE = "WM" NAME = "Wee Wuu">
+			<!-- MAIN -->
+			<DRIVE>P:</DRIVE>
+			<DEPARTMENT>ANM|LGT|LYT|FX</DEPARTMENT>
+			
+			<!-- SOFTWARE USING -->
+			<PROJECT_SOFTWARE NAME = "MAYA" ICON = "C:/Users/Global/Icon/Maya.ico">2016</PROJECT_SOFTWARE> <!--Extension 1 + Service Pack 6-->
+			<COMPOSITING_SOFTWARE NAME = "NUKE ">9.0</COMPOSITING_SOFTWARE>
+			<RENDER_ENGINE PLUGINNAME = "vrayformaya" NAME = "vray">3.52.03</RENDER_ENGINE>
+			
+			<!-- OUTPUT INFO -->
+			<PREVIEW_WIDTH>1280</PREVIEW_WIDTH>
+			<PREVIEW_HEIGHT>720</PREVIEW_HEIGHT>
+			<PREVIEW_EXTENSION>h.264</PREVIEW_EXTENSION>
+			
+			<!-- PLAYBLAST PATH -->
+			<PLAYBLAST_PATH>Wee-Wuu/Episodes part 1</PLAYBLAST_PATH>
+			
+			<!-- PATH -->
+			<MAIN_PATH>P:/Wee-Wuu/Episodes part 1</MAIN_PATH>
+			<LAYOUT_PATH>P:/Wee-Wuu/Episodes part 1/{}/3D layout</LAYOUT_PATH>
+			<ANIMATION_PATH>P:/Wee-Wuu/Episodes part 1/{}/Animation</ANIMATION_PATH>
+			<VFX_PATH>Wee-Wuu/Episodes part 1</VFX_PATH>
+			<LGT_PATH>Wee-Wuu/Episodes part 1</LGT_PATH>
+			<COMP_PATH>Wee-Wuu/Episodes part 1</COMP_PATH>
+		</PROJECT_001>
+		
+		<PROJECT_002 CODE = "BP" NAME = "Bew Pew">
+			<!-- MAIN -->
+			<DRIVE>P:</DRIVE>
+			<DEPARTMENT>ANM|LGT|LYT|FX</DEPARTMENT>
+			
+			<!-- SOFTWARE USING -->
+			<PROJECT_SOFTWARE NAME = "MAYA" ICON = "C:/Users/Global/Icon/Maya.ico">2018</PROJECT_SOFTWARE>
+			<COMPOSITING_SOFTWARE NAME = "NUKE ">9.0</COMPOSITING_SOFTWARE>
+			<RENDER_ENGINE PLUGINNAME = "vrayformaya" NAME = "vray">3.52.03</RENDER_ENGINE>
+			
+			<!-- OUTPUT INFO -->
+			<PREVIEW_WIDTH>1280</PREVIEW_WIDTH>
+			<PREVIEW_HEIGHT>720</PREVIEW_HEIGHT>
+			<PREVIEW_EXTENSION>h.264</PREVIEW_EXTENSION>
+			
+			<!-- PLAYBLAST PATH -->
+			<PLAYBLAST_PATH>Jin-Bee/Episodes part 1</PLAYBLAST_PATH>
+			
+			<!-- PATH -->
+			<MAIN_PATH>P:/Jin-Bee/Episodes part 1</MAIN_PATH>
+			<LAYOUT_PATH>P:/Jin-Bee/Episodes part 1/{}/3D layout</LAYOUT_PATH>
+			<ANIMATION_PATH>P:/Jin-Bee/Episodes part 1/{}/Animation</ANIMATION_PATH>
+			<VFX_PATH>Jin-Bee/Episodes part 1</VFX_PATH>
+			<LGT_PATH>Jin-Bee/Episodes part 1</LGT_PATH>
+			<COMP_PATH>Jin-Bee/Episodes part 1</COMP_PATH>
+		</PROJECT_002>
+		
+		<PROJECT_003 CODE = "DTB" NAME = "Doi Toi Bom">
+			<!-- MAIN -->
+			<DRIVE>P:</DRIVE>
+			<DEPARTMENT>ANM|LGT|LYT|FX</DEPARTMENT>
+			
+			<!-- SOFTWARE USING -->
+			<PROJECT_SOFTWARE NAME = "MAYA" ICON = "A:/Demo/Global/Icon/Maya.ico">2016</PROJECT_SOFTWARE> <!--Extension 1 + Service Pack 6-->
+			<COMPOSITING_SOFTWARE NAME = "NUKE ">9.0</COMPOSITING_SOFTWARE>
+			<RENDER_ENGINE PLUGINNAME = "vrayformaya" NAME = "vray">3.52.03</RENDER_ENGINE>
+			
+			<!-- OUTPUT INFO -->
+			<PREVIEW_WIDTH>1280</PREVIEW_WIDTH>
+			<PREVIEW_HEIGHT>720</PREVIEW_HEIGHT>
+			<PREVIEW_EXTENSION>h.264</PREVIEW_EXTENSION>
+			
+			<!-- PLAYBLAST PATH -->
+			<PLAYBLAST_PATH>Jin-Bee/Episodes part 1</PLAYBLAST_PATH>
+			
+			<!-- PATH -->
+			<MAIN_PATH>P:/Jin-Bee/Episodes part 1</MAIN_PATH>
+			<LAYOUT_PATH>P:/Jin-Bee/Episodes part 1/{}/3D layout</LAYOUT_PATH>
+			<ANIMATION_PATH>P:/Jin-Bee/Episodes part 1/{}/Animation</ANIMATION_PATH>
+			<VFX_PATH>Jin-Bee/Episodes part 1</VFX_PATH>
+			<LGT_PATH>Jin-Bee/Episodes part 1</LGT_PATH>
+			<COMP_PATH>Jin-Bee/Episodes part 1</COMP_PATH>
+		</PROJECT_003>
+	</PROJECTS>
+</DATA> 

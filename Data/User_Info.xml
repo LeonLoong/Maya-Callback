@@ -1,0 +1,12 @@
+<DATA>
+	<USERS>
+		<USER CODE="Demo_User_Info" VERSION="004">
+			<Username>Loong</Username>
+			<Department>ANM</Department>
+			<Project>WM</Project>
+			<Software NAME="Maya">2016</Software>
+			<Method>method_001</Method>
+			<PlayblastMethod>location_method_001</PlayblastMethod>
+		</USER>
+	</USERS>
+</DATA>

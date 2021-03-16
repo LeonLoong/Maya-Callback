@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DATA>
+	<UIS>
+		<UI CODE = "MAIN" NAME = "Main Tools">
+			<MAIN>A:/Demo/Global/UI/Demo/Main.ui</MAIN>
+			<LAUNCHER>A:/Demo/Global/UI/Demo/Launcher.ui</LAUNCHER>
+		</UI>
+		
+		<UI CODE = "WM" NAME = "Woof Meow">
+			<Demo_ANM_Tools>A:\Demo\Project\WM\Maya\scripts\miscellaneous\ui\Demo_ANM_Tools.ui</Demo_ANM_Tools>
+			<ANM_MAIN_STRUCTURE>episode|department|scene|cut|file</ANM_MAIN_STRUCTURE>
+			<LYT_UI>A:\Demo\Project\WM\Maya\scripts\Layout\UI\PXL_LYT.ui</LYT_UI>
+		</UI>
+	</UIS>
+</DATA>
+
