@@ -2,7 +2,7 @@
 A:
 cd A:\Demo\Global\Other\xmlStarlet-1.6.1\
 
-set USERINFO=%USERPROFILE%\Demo\Datas\PIX\User_Info.xml;
+set USERINFO=%USERPROFILE%\Demo\Datas\Demo\User_Info.xml;
 
 :Query_Project_Name
 set "Project="
